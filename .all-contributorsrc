@@ -293,7 +293,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "rajatgarg2",
+      "name": "rajatgarg2",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/68014249?v=4",
+      "profile": "https://github.com/rajatgarg2",
+      "contributions": [
+        "code"
+      ]
     }
+
   ],
   "contributorsPerLine": 7,
   "projectName": "HacktoberFest2020",
